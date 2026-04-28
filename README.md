@@ -1,5 +1,7 @@
 # Karmic Gochara — F-Droid Repository
 
+Karmic Gochara Lite, an android prompt generator for Ai astrology
+
 F-Droid self-hosted repository for **Karmic Gochara Lite**.
 
 ## Install via F-Droid
