@@ -1,0 +1,41 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "karmicgochara-1.0.0-arm64-v8a-release.apk": {
+    "hash": "de03c4e1491a316ad587666e4f0882722587ad71af04095517d1e004ab8e5769",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "app.karmicgochara.karmicgochara",
+    "versionCode": 102110000,
+    "name": "Karmic Gochara Lite",
+    "versionName": "1.0.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "00f082f641a03f69acd1f3aa37466796",
+    "signer": "9c6ce59fb77854a126450bc47863a5fb49bc367b5193b8c6ff7a3c3437dff82c",
+    "size": 40748209,
+    "apkName": "karmicgochara-1.0.0-arm64-v8a-release.apk",
+    "added": 1777356684.463093
+  }
+}

@@ -1,1 +1,1 @@
-{"repo": {"description": {"en-US": "F-Droid repository for Karmic Gochara Lite. Astrological transit calculator — Vedic / DK sidereal."}, "icon": {"en-US": {"sha256": "8f752789e7a107f7eacc28c8a87fd6d7c78ce5baca5e4ca75ed0c4d5b78d9322", "size": 849}}, "timestamp": 1777356923000}}
+{"repo": {"description": {"en-US": "F-Droid repository for Karmic Gochara Lite. Astrological transit calculator — Vedic / DK sidereal."}, "timestamp": 1777430572000}, "packages": {"app.karmicgochara.karmicgochara": {"metadata": {"webSite": "https://x.com/siderealAstro13", "authorName": "Jerome"}}}}

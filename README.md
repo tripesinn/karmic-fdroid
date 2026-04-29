@@ -14,6 +14,13 @@ F-Droid self-hosted repository for **Karmic Gochara Lite**.
 https://tripesinn.github.io/karmic-fdroid/repo
 ```
 
+### Support & Contact
+
+If you find this project useful, you can support its development:
+
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/jerome6)
+- 𝕏 [Follow on X (Twitter)](https://x.com/siderealAstro13)
+
 4. Search for **Karmic Gochara Lite** and install.
 
 ## About
